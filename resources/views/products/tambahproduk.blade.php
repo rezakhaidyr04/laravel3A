@@ -7,7 +7,7 @@
     <div class="card">
         <div class="header">
             <div>
-                <h1>Tambah Produk</h1>
+                <h1>Tambah barang</h1>
                 <div class="sub">Isi data produk dan tambahkan gambar untuk meningkatkan daya tarik listing.</div>
             </div>
             <div>
